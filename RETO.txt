@@ -1,0 +1,12 @@
+1. ¿En qué carpeta estás?
+2. ¿Qué archivos hay dentro de datos/?
+3. ¿Cuántas secuencias contiene secuencias.fasta?
+4. ¿Qué encabezados contienen la palabra Homo?
+5. ¿Cuántas líneas tiene muestra.fastq?
+6. ¿Cuántos registros hay en genes.tsv sin contar el encabezado?
+7. ¿Qué cromosomas aparecen en genes.tsv?
+8. ¿Cuántos genes hay por cromosoma?
+9. ¿Cuántas variantes con filtro PASS hay en variantes.vcf?
+10. ¿Qué tipos de feature aparecen en anotacion.gff?
+11. Extra: muestra solo las variantes del cromosoma 17.
+12. Extra: construye un pipeline que ordene los cromosomas desde el que tiene más genes al que tiene menos.

@@ -1,0 +1,9 @@
+##gff-version 3
+17	Demo	gene	7661779	7687546	.	-	.	ID=gene:TP53;Name=TP53
+17	Demo	mRNA	7668402	7687550	.	-	.	ID=transcript:TP53-201;Parent=gene:TP53
+17	Demo	exon	7687377	7687490	.	-	.	Parent=transcript:TP53-201
+17	Demo	CDS	7676595	7676715	.	-	0	Parent=transcript:TP53-201
+7	Demo	gene	55019017	55211628	.	+	.	ID=gene:EGFR;Name=EGFR
+7	Demo	mRNA	55019017	55207338	.	+	.	ID=transcript:EGFR-201;Parent=gene:EGFR
+7	Demo	exon	55019017	55019365	.	+	.	Parent=transcript:EGFR-201
+7	Demo	CDS	55143304	55143488	.	+	0	Parent=transcript:EGFR-201
